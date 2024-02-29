@@ -28,6 +28,15 @@ samples, guidance on mobile development, and a full API reference.
 
 ![image](https://github.com/SUPaezRivas/P11_TabBar_6J/assets/143548332/a8f03327-8e97-4ff5-a91e-975a74b6b728)
 
+![image](https://github.com/SUPaezRivas/P11_TabBar_6J/assets/143548332/32f57c36-918d-4945-b536-ea8707d3d36b)
+
+![image](https://github.com/SUPaezRivas/P11_TabBar_6J/assets/143548332/8a607af1-38a9-4377-b131-566527f4d7e0)
+
+![image](https://github.com/SUPaezRivas/P11_TabBar_6J/assets/143548332/5b2e4026-6dd1-42bf-b160-06f032c80241)
+
+
+
+
   
 
   
