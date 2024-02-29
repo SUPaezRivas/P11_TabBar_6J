@@ -19,8 +19,10 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 - ## Aplicaciones de TabBar
-
+## LInks de referencia
 - https://codesinsider.com/flutter-tabbar-tabbarview-example-tutorial/?expand_article=1
+- https://blog.logrocket.com/flutter-tabbar-a-complete-tutorial-with-examples/
+https://www.freecodecamp.org/news/navigation-in-flutter/
 
 - Paez RIvas Sergio Uziel 6J
 
